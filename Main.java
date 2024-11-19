@@ -15,6 +15,6 @@ public class Main
     boolean isSimilar = isCongruent || (r1.getLength()/r2.getLength()) == (r1.getWidth()/r2.getWidth());
     System.out.println(isRotated);
     System.out.println(isCongruent);
-    System.out.println(isSimilar);
+    System.out.println(isSimilar);donw
   }
 }
